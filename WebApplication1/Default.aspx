@@ -26,7 +26,7 @@
                     <a href="#" data-original-title="">
                         <i class="icon-comments-alt"></i>
                         <div class="info">49</div>
-                        <div class="status">Comments</div>
+                        <div class="status">Comments2</div>
                     </a>
                 </div>
                 <div class="metro-nav-block nav-block-green double">
