@@ -19,7 +19,7 @@
                     <a href="#" data-original-title="">
                         <i class="icon-tags"></i>
                         <div class="info">+970</div>
-                        <div class="status">Salesaa</div>
+                        <div class="status">Sales</div>
                     </a>
                 </div>
                 <div class="metro-nav-block nav-block-yellow">
